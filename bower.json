@@ -1,0 +1,21 @@
+{
+  "name": "route-routing",
+  "homepage": "https://github.com/philliplewisjr/route-routing",
+  "authors": [
+    "Phillip Lewis <phillip.lewisjr@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
+  }
+}
